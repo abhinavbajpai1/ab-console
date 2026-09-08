@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc></url>
+  <url><loc>/projects</loc></url>
+  <url><loc>/applications</loc></url>
+  <url><loc>/certifications</loc></url>
+  <url><loc>/architecture</loc></url>
+  <url><loc>/infrastructure</loc></url>
+  <url><loc>/cicd</loc></url>
+  <url><loc>/docker</loc></url>
+  <url><loc>/kubernetes</loc></url>
+  <url><loc>/terraform</loc></url>
+  <url><loc>/automation</loc></url>
+  <url><loc>/monitoring</loc></url>
+  <url><loc>/logs</loc></url>
+  <url><loc>/security</loc></url>
+  <url><loc>/iam</loc></url>
+  <url><loc>/ai-ml</loc></url>
+  <url><loc>/mlops</loc></url>
+  <url><loc>/about</loc></url>
+  <url><loc>/experience</loc></url>
+  <url><loc>/resume</loc></url>
+  <url><loc>/contact</loc></url>
+</urlset>
